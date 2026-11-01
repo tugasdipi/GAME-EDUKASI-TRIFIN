@@ -1,0 +1,89 @@
+TRIFIN — LAPORAN VERIFIKASI ASET VISUAL
+Tanggal: 2 November 2026
+
+Gambar WebP tersedia: 79
+Referensi assets/img/: 73
+Path lokal yang tidak ditemukan: 0
+Pengujian pemuatan browser: Login, Briefing, Dashboard, World Map, Pos 1–9.
+Hasil: 0 elemen <img> rusak pada layar yang diuji.
+
+DAFTAR FILE GAMBAR:
+- assets/img/0310c0bd39db.webp                          1672x941      254478 bytes
+- assets/img/0447797971a8.webp                           941x1672     169558 bytes
+- assets/img/07cfa5406344.webp                          1672x941      173014 bytes
+- assets/img/0ac9dea219e1.webp                          1254x1254     280584 bytes
+- assets/img/1956eba0ec9c.webp                          1672x941      328510 bytes
+- assets/img/1a6d1c65d568.webp                           941x1672      98634 bytes
+- assets/img/1da0ae549090.webp                          1254x1254     180806 bytes
+- assets/img/20982658f675.webp                          1254x1254     262452 bytes
+- assets/img/2237fc557f94.webp                          1254x1254     272072 bytes
+- assets/img/22ae2798f62b.webp                          1254x1254     385512 bytes
+- assets/img/2e466a946bed.webp                          1254x1254     252172 bytes
+- assets/img/2f037906d287.webp                           941x1672     353846 bytes
+- assets/img/30f452a7ec48.webp                          1672x941      268170 bytes
+- assets/img/38c17d3bd3eb.webp                          1254x1254     300272 bytes
+- assets/img/3ef843e1d317.webp                          1254x1254     353962 bytes
+- assets/img/3f42c0193b7c.webp                          1254x1254     185038 bytes
+- assets/img/3ff1a20ea7ca.webp                          2000x1414     366354 bytes
+- assets/img/40f731fd2a8e.webp                          1254x1254     324534 bytes
+- assets/img/4197d3b8a4e4.webp                          1254x1254     190576 bytes
+- assets/img/4360fae48716.webp                          1254x1254     231054 bytes
+- assets/img/43735a62f3f3.webp                          1254x1254     407002 bytes
+- assets/img/44aa731a376f.webp                          1254x1254     388826 bytes
+- assets/img/4949cf0f705e.webp                           940x1672     301462 bytes
+- assets/img/51cad9ef5947.webp                           296x296        1068 bytes
+- assets/img/56595d816cdc.webp                          1254x1254     385342 bytes
+- assets/img/56e0286cc0a1.webp                          1672x941      262172 bytes
+- assets/img/594305d3a0fb.webp                          1254x1254     226558 bytes
+- assets/img/5a83d0b7d3ef.webp                          1024x1024      94200 bytes
+- assets/img/64638d973049.webp                          1254x1254     382460 bytes
+- assets/img/69158f35ab19.webp                          1254x1254     160748 bytes
+- assets/img/693c48cce7af.webp                           941x1672     323262 bytes
+- assets/img/75045299ac82.webp                          1254x1254     238882 bytes
+- assets/img/759a9ec691c2.webp                          1254x1254     157728 bytes
+- assets/img/7dcdb4801aa9.webp                          1254x1254     329926 bytes
+- assets/img/7e1f861c9e71.webp                           941x1672     319440 bytes
+- assets/img/7ec652248eec.webp                          1254x1254     196128 bytes
+- assets/img/7f6b58b709e4.webp                          1122x1402     168576 bytes
+- assets/img/82684460e6e5.webp                          1672x941      263502 bytes
+- assets/img/84499037b118.webp                          1254x1254     223366 bytes
+- assets/img/862e31c937fa.webp                          1254x1254     264464 bytes
+- assets/img/8878d31a8ba8.webp                          1024x1024     116824 bytes
+- assets/img/88c0d559247a.webp                          1254x1254     190364 bytes
+- assets/img/8bd856af5e91.webp                          1672x941      289454 bytes
+- assets/img/94bafd065028.webp                          1254x1254     169012 bytes
+- assets/img/955a4dc6686d.webp                          1672x941      336336 bytes
+- assets/img/9f81318b1afe.webp                           941x1672     281364 bytes
+- assets/img/a0f51f4238fb.webp                          1254x1254     341432 bytes
+- assets/img/a2455b4381c4.webp                           941x1672     335304 bytes
+- assets/img/aaf09001726d.webp                          1024x1536     370848 bytes
+- assets/img/ab150a2b6b19.webp                           941x1672     353462 bytes
+- assets/img/ac75e3664b4b.webp                          1122x1402     181480 bytes
+- assets/img/ac7ccb05f355.webp                          1254x1254     233320 bytes
+- assets/img/b4753cc2d5a4.webp                          1672x941      393314 bytes
+- assets/img/ba5445f01446.webp                           941x1672      58600 bytes
+- assets/img/bac80910bdbf.webp                          1254x1254     371758 bytes
+- assets/img/bd9f87847bb9.webp                           941x1672     167514 bytes
+- assets/img/c0732fb149f4.webp                          1672x941      170664 bytes
+- assets/img/c3d18d7cf7b5.webp                          1254x1254     206548 bytes
+- assets/img/c62ffa492bb3.webp                          1672x941       74676 bytes
+- assets/img/c9cd41ed62c2.webp                          1254x1254     407534 bytes
+- assets/img/cc357238e266.webp                          1024x1024      80708 bytes
+- assets/img/d61f1a1c4a59.webp                          1122x1402     200940 bytes
+- assets/img/db2527304179.webp                          1254x1254     268512 bytes
+- assets/img/dd8047782dbe.webp                          1254x1254     311258 bytes
+- assets/img/e28aff34e462.webp                          1122x1402     193156 bytes
+- assets/img/e390b8f48328.webp                          1122x1402     226678 bytes
+- assets/img/e6c24eb30ee4.webp                          1254x1254     307966 bytes
+- assets/img/e809a95f9d97.webp                          1254x1254     275242 bytes
+- assets/img/e974d2831f17.webp                          1122x1402     187894 bytes
+- assets/img/ea9650c1cb35.webp                          1234x1275     253200 bytes
+- assets/img/f2a5ac28650f.webp                          1254x1254     360032 bytes
+- assets/img/f39cd921fc0e.webp                          1254x1254     399856 bytes
+- assets/img/f4155a72f267.webp                          1672x941       49390 bytes
+- assets/img/f634a74edd0a.webp                          1254x1254     219794 bytes
+- assets/img/f9b4066910e1.webp                          1254x1254     353482 bytes
+- assets/img/fcf44851fd7c.webp                          1672x941      314144 bytes
+- assets/img/fda705007afa.webp                          1254x1254     273236 bytes
+- dashboard_luno_bg.webp                                1672x941      237012 bytes
+- dashboard_luno_mobile_cutout.webp                      650x590       77152 bytes
