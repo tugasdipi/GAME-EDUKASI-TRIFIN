@@ -1,0 +1,24 @@
+LAPORAN VERIFIKASI PAKET TRIFIN
+
+Format folder mengikuti TRIFIN [1st Version].zip.
+Jumlah gambar fisik: 79 file WebP (seluruhnya valid).
+Jumlah referensi aset gambar unik: 79; seluruh file tersedia.
+Jumlah referensi ke file gambar lokal yang tidak ditemukan: 0.
+
+PEMERIKSAAN BROWSER (PEMUATAN HALAMAN AWAL):
+Login: logo dimuat normal.
+World Map: 9/9 gambar pulau berhasil.
+Pos 1: 16/16 gambar berhasil.
+Pos 2: 5/5 gambar berhasil.
+Pos 3: halaman terbuka, tidak memakai elemen img.
+Pos 4: 1/1 gambar berhasil.
+Pos 5: 1/1 gambar berhasil.
+Pos 6: 1/1 gambar berhasil.
+Pos 7: 2/2 gambar berhasil.
+Pos 8: halaman terbuka, tidak memakai elemen img.
+Pos 9: 2/2 gambar berhasil.
+Tidak ada path aset gagal selama pengujian halaman-halaman di atas.
+
+Perbaikan tambahan: 2 placeholder src kosong pada Pos 1 dan Pos 2 diberi gambar transparan yang valid.
+Catatan: pengujian browser ini tidak mencakup setiap jalur/aktivitas dinamis sampai selesai.
+Keberhasilan setelah deploy tetap mensyaratkan folder assets/img berada tepat di root repository bersama index.html.
